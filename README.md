@@ -8,5 +8,8 @@ If you have any other needs, please contact hjypiaolin@126.com
 <dd><img src="" title="img_01" /></dd>
 <dt><h2>0x01 静待连接</h2></dt>
 </dl>
-
-
+<h1>entrance guard card(门禁卡)</h1>
+If you have any other needs, please contact hjypiaolin@126.com
+<dl>
+<dt><h2>0x00 使用实拍</h2></dt>
+</dl>
