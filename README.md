@@ -11,7 +11,7 @@ If you have any other needs, please contact hjypiaolin@126.com
 <dt><h2>0x01 WiFi开启,静待连接</h2></dt>
 <dd>
   <p>WiFi自动开启,WiFi名可定制,默认WiFi名为校园网</p>
-  <img src="https://github.com/piaolin/piaolin.github.io/blob/master/wifi_list.jpg" title="wifi列表" />
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/wifi_list.jpg" title="wifi列表" />
 </dd>
 
 <dt><h2>0x02 目标连接</h2></dt>
