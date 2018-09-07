@@ -17,19 +17,19 @@ If you have any other needs, please contact hjypiaolin@126.com
 <dt><h2>0x02 目标连接</h2></dt>
 <dd>
   <p>目标连接后，网页自动弹出登录页面(多数为手机),或访问任意网址跳转到登录页面</p>
-  <img src="https://github.com/piaolin/piaolin.github.io/blob/master/connected.jpg" title="连接wifi" />
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/connected.jpg" title="连接wifi" />
   <p>访问任意网站</p>
-  <img src="https://github.com/piaolin/piaolin.github.io/blob/master/2.jpg" title="访问任意网站" />
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/2.jpg" title="访问任意网站" />
   <p>自动跳转到登录页面</p>
-  <img src="https://github.com/piaolin/piaolin.github.io/blob/master/3.jpg" title="自动跳转到登录页面" />
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/3.jpg" title="自动跳转到登录页面" />
 </dd>
 
 <dt><h2>0x03 密码获取</h2></dt>
 <dd>
   <p>用户输入用户名密码，点击登录按钮(或下方任意按钮)</p>
-  <img src="https://github.com/piaolin/piaolin.github.io/blob/master/4.jpg" title="用户输入" />
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/4.jpg" title="用户输入" />
   <p>访问http://192.168.1.1/key514?key=123061 (key514和123061皆为出厂随机设置，可定制化),得到刚刚输入的用户名的密码</p>
-  <img src="https://github.com/piaolin/piaolin.github.io/blob/master/5.jpg" title="OK" />
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/5.jpg" title="OK" />
 </dd>
 
 </dl>
