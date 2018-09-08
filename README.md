@@ -14,7 +14,7 @@ Hello, welcome to know my new productions!
   
 <dt><h2>0x01 WiFi开启,静待连接</h2></dt>
 <dd>
-  <p>1.1 WiFi自动开启,WiFi名可定制,默认WiFi名为校园网</p>
+  <p>1.1 WiFi自动开启,WiFi名可定制,默认WiFi名为校园网，信号好的就是我们创建的WiFi</p>
   <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/wifi_list.jpg" title="wifi列表" />
   <br />
 </dd>
@@ -47,6 +47,7 @@ Hello, welcome to know my new productions!
   <p>&nbsp;&nbsp;&nbsp;&nbsp;双重密码认证，还可定制登录密码，使其被暴力破解的概率不到百万分之一</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;小巧便携，可放入背包，就可行走校园，满满的极客感</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;耗电量极低，充电宝即可供电</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;WiFi距离最远可达方圆200米</p>
   <p><green>&nbsp;&nbsp;&nbsp;&nbsp;还可连续我定制：任意wifi钓鱼页面，WIFI杀手(强行断网，打击蹭网者)，超声波测距，WIFI控制开关灯，开门警报器，实时温(湿)度监控，烟雾报警，内网web服务器(可直接接入)</green></p>
   <p>for sale:<red>50RMB/块</red></p>
   <p>Please connect with hjypiaolin@126.com</p>
