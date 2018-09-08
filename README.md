@@ -5,8 +5,12 @@ Hello, welcome to know my new productions!
 放入背包，化身极客行走校园    If you have any other needs, please contact hjypiaolin@126.com
 <dl>
   
-<dt><h2>0x00 连接电源</h2></dt>
-<dd><img src="" title="img_01" /><br /></dd>
+<dt><h2>0x00 工具展示&&连接电源</h2></dt>
+<dd>
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/11.jpg" title="实拍" />
+  <br />
+  <img src="https://raw.githubusercontent.com/piaolin/piaolin.github.io/master/22.jpg" title="实拍" /><br />
+</dd>
   
 <dt><h2>0x01 WiFi开启,静待连接</h2></dt>
 <dd>
@@ -42,6 +46,8 @@ dt><h2>0x04 相关问题</h2></dt>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;可定制WiFi名(ssid),使其与真实wifi一模一样</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;双重密码认证，还可定制登录密码，使其被暴力破解的概率不到百万分之一</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;小巧便携，可放入背包，就可行走校园，满满的极客感</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;耗电量极低，充电宝即可供电</p>
+  <p><green>&nbsp;&nbsp;&nbsp;&nbsp;还可连续我定制：任意wifi钓鱼页面，WIFI杀手(强行断网，打击蹭网者)，超声波测距，WIFI控制开关灯，开门警报器，实时温(湿)度监控，烟雾报警，内网web服务器(可直接接入)</green></p>
   <p>for sale:<red>50RMB/块</red></p>
   <p>Please connect with hjypiaolin@126.com</p>
   <br />
