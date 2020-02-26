@@ -51,7 +51,6 @@ Hello, welcome to know my new productions!
   <p>&nbsp;&nbsp;&nbsp;&nbsp;WiFi距离最远可达方圆200米</p>
   </font>
   <p><font color="blue">&nbsp;&nbsp;&nbsp;&nbsp;还可联系我定制：任意wifi钓鱼页面，WIFI杀手(强行断网，打击蹭网者)，超声波测距，WIFI控制开关灯，开门警报器，实时温(湿)度监控，烟雾报警，内网web服务器(可直接接入)</font></p>
-  <p>for sale:<font color="red">50RMB/块</font></p>
   <p>Please connect with hjypiaolin@126.com</p>
   <br />
 </dd>
