@@ -6,9 +6,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <title>:: 逍遥 & 月月子 :: Personal photo album</title>
-  <embed autostart="true" loop="-1" controls="ControlPanel" width="0" height="0" src="music/s.mp3">
   <!-- Normalize -->
 
   <link rel="stylesheet" href="css/assets/normalize.css" type="text/css">
@@ -47,12 +46,27 @@
   <script src="js/assets/modernizr-2.8.3.min.js" type="text/javascript"></script>
 </head>
 
+  <!-- <script>
+    var promise = document.querySelector('audio').play();
+    if (promise !== undefined) {
+      promise.then(_ => {
+        // Autoplay started! 这种情况可以自动播放（非谷歌的其他浏览器：edge、360）
+      }).catch(error => {
+        //  Autoplay was prevented.谷歌和火狐就会阻止播放，可以显示一个PLAY按钮提示用户点击后进行播放
+      });
+    }
+  </script> -->
 <body>
+  <!-- <iframe allow="autoplay" frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=423997777&auto=1&height=32"></iframe> -->
+  <!-- <iframe allow="autoplay" src="music/s.mp3" display="None"></iframe> -->
+  <!-- <audio id="bgMusic" controls autoplay loop src="music/s.mp3"></audio> -->
+    <!-- <button id="unmuteButton"></button> -->
+    
+
 
   <!-- header -->
 
   <header id="header" class="header">
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=0 src="https://music.163.com/outchain/player?type=2&id=1416059202&auto=1&height=32"></iframe>
     <div class="container-fluid">
       <hgroup>
 
@@ -396,7 +410,7 @@
 
         <!-- logo -->
 
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"> <img alt="Picxa" title="Picxa" />
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
           <p class="copy-right">&copy; Reserved 逍遥 & 月月子 2020.</p>
         </div>
 
@@ -421,6 +435,7 @@
 
       </div>
     </div>
+  <video id="video" muted autoplay src="music/s.mp3">
   </footer>
 
   <!-- footer -->
@@ -443,6 +458,15 @@
   <script src="js/gallery/jquery.infinitescroll.min.js" type="text/javascript"></script>
   <script src="js/gallery/main.js" type="text/javascript"></script>
   <script src="js/jquery.nicescroll.min.js" type="text/javascript"></script>
+    <script>
+      function fn(){
+        console.log("muted=false");
+        video.muted = false;
+      document.removeEventListener('client', fn)
+      }
+      document.addEventListener('click', fn);
+    </script>
+
 </body>
 
 </html>
